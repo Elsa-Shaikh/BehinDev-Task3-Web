@@ -1,3 +1,15 @@
+# My Chat App
+This is a simple chat app that has been built using React. To use it, you'll first need to log in with your Google account.
+
+# Technology
+React
+Firebase
+Tailwind CSS
+
+# deploy
+link: https://appchat90.netlify.app/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
